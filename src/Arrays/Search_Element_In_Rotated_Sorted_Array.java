@@ -1,5 +1,5 @@
 package Arrays;
-
+//unique elements
 public class Search_Element_In_Rotated_Sorted_Array {
     public static int searchInRotatedSorted(int []arr,int target){
         int n = arr.length;
